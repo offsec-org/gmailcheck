@@ -12,4 +12,4 @@ Vale ressaltar que de acordo com o número de requests pode ser necessário reav
 - Não executar o script como root. Por questões de segurança o Firefox não permite a execução como root.
 
 
-Script feito por @oliveiralimajr e @daniboy-off
+Script feito por @oliveiralimajr e @DaniBoy-off
